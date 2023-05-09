@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **er.shoaib.sanjari@gmail.com**
 
-- 📄 Resume [https://drive.google.com/file/d/1H9htETKuvg_zHZREym7-9zEj87GukHWI/view?usp=share_link](https://drive.google.com/file/d/1H9htETKuvg_zHZREym7-9zEj87GukHWI/view?usp=share_link)
+- 📄 Resume [https://drive.google.com/file/d/1H9htETKuvg_zHZREym7-9zEj87GukHWI/view?usp=share_link] https://drive.google.com/file/d/1VNPKRVppyzoaAN3wOr8gBqq-5-rQQODo/view?usp=share_link
 
 - ⚡ Fun fact **I bowl Fast.**
 
