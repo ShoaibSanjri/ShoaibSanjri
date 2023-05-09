@@ -12,7 +12,7 @@
 
 - 🤝 Indidual project clone of mail chimp official website. some features like authentication, products page, cart page and other, are implemented using javaScript, HTML, CSS and localstorage. [Red-machine](https://github.com/ShoaibSanjri/red-machine-4582.git)
 
-- 👨‍💻 Portfolio [https://github.com/ShoaibSanjri/ShoaibSanjri.github.io.git](https://github.com/ShoaibSanjri/ShoaibSanjri.github.io.git)
+- 👨‍💻 Portfolio [https://ShoaibSanjri.github.io](https://github.com/ShoaibSanjri/ShoaibSanjri.github.io.git)
 
 - 💬 Ask me about **React,JavaScript**
 
